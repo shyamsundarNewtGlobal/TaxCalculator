@@ -36,6 +36,7 @@ public class TaxCalculator {
             return (int) (tax + ((income - 100000) * .2));
         }
         return (int) tax;
+        
     }
     
 }
