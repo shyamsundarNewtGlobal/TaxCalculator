@@ -37,4 +37,5 @@ public class TaxCalculator {
         }
         return (int) tax;
     }
+    
 }
