@@ -5,8 +5,6 @@
  */
 package org.asi.taxcalculator;
 
-
-
 /**
  *
  * @author shyams
